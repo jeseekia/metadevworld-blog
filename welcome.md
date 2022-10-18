@@ -1,6 +1,6 @@
 ---
 title: Welcome to MetaDevWorld
-domain: metadevworld.hashnode.dev
+domain: metadevgirl.hashnode.dev
 tags: devlife, first-post-1
 subtitle: YOUR_SUBTITLE_HERE
 slug: welcome-to-metadevworld
