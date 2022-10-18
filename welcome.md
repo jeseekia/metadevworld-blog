@@ -2,11 +2,9 @@
 title: Welcome to MetaDevWorld
 domain: metadevgirl.hashnode.dev
 tags: devlife, first-post-1
-subtitle: YOUR_SUBTITLE_HERE
+subtitle: 
 slug: welcome-to-metadevworld
-/* You need to upload your image to https://hashnode.com/uploader 
-and use the uploaded image URL as COVER_IMAGE_URL */ 
-cover: 
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1666059250264/BmUlrwEid.jpeg?auto=compress
 publishAs: 
 canonical:  
 ---
